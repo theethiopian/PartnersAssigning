@@ -1,19 +1,16 @@
 var inPersonStudents = [
 	{name: 'Arnoldo', currentPartner: null, previousPartners: []},
-	{name: 'Ayo', currentPartner: null, previousPartners: []},
-	{name: 'Chelsea', currentPartner: null, previousPartners: []},
+	{name: 'Ajay', currentPartner: null, previousPartners: []},
+	{name: 'Atlante', currentPartner: null, previousPartners: []},
 	{name: 'Eyasu', currentPartner: null, previousPartners: []},
-	{name: 'Francis', currentPartner: null, previousPartners: []},
+	{name: 'Aleks', currentPartner: null, previousPartners: []},
 	{name: 'Garland', currentPartner: null, previousPartners: []},
-	{name: 'George', currentPartner: null, previousPartners: []},
+	{name: 'Alberto', currentPartner: null, previousPartners: []},
 	{name: 'Jorge', currentPartner: null, previousPartners: []},
-	{name: 'Lauren', currentPartner: null, previousPartners: []},
 	{name: 'Luisa', currentPartner: null, previousPartners: []},
 	{name: 'Mateo', currentPartner: null, previousPartners: []},
-	{name: 'Mohamed', currentPartner: null, previousPartners: []},
 	{name: 'Ralston', currentPartner: null, previousPartners: []},
-	{name: 'Ruth', currentPartner: null, previousPartners: []},
-	{name: 'Viviana', currentPartner: null, previousPartners:[]}
+	{name: 'Solo', currentPartner: null, previousPartners: []},
 ];
 
 

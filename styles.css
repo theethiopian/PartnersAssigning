@@ -1,8 +1,6 @@
 body {
-<<<<<<< HEAD
-	background-color: blue;
 
-=======
+	background-color: blue;
 	background-color: rgb(44, 132, 148);
 	font-family: 'Raleway', sans-serif;
 	margin: auto;
@@ -51,5 +49,4 @@ tr:hover {background-color: rgb(147, 197, 210)}
 
 td {
     border-bottom: 1px solid black;
->>>>>>> 655e211263a48fc46e36ffd56929905e29b5fd0e
 }
